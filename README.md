@@ -7,3 +7,11 @@
 [Pycaret](https://www.datacamp.com/tutorial/guide-for-automating-ml-workflows-using-pycaret)
 
 [Learn AI](https://learn-ai.in.th/home)
+
+
+
+# Pytorch
+
+[LearnPytorch.io](https://www.learnpytorch.io/)
+
+[Pytorch - youtube](https://www.youtube.com/watch?v=Z_ikDlimN6A)
