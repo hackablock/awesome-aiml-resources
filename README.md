@@ -15,3 +15,5 @@
 [LearnPytorch.io](https://www.learnpytorch.io/)
 
 [Pytorch - youtube](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+
+[Pytorch](https://www.youtube.com/watch?v=c36lUUr864M)
