@@ -17,3 +17,8 @@
 [Pytorch - youtube](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 
 [Pytorch](https://www.youtube.com/watch?v=c36lUUr864M)
+
+
+# Rust
+
+[Rust - Beginner](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL&index=1)
