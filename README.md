@@ -22,3 +22,8 @@
 # Rust
 
 [Rust - Beginner](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL&index=1)
+
+
+# PyCaret
+
+[ECG](https://robson-rocha.medium.com/using-scikit-learn-and-pycaret-to-predict-heart-disease-and-how-to-deploy-it-on-sagemaker-846164624d42)
