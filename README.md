@@ -8,6 +8,8 @@
 
 [Learn AI](https://learn-ai.in.th/home)
 
+[AI Builder](https://github.com/ai-builders/curriculum)
+
 
 
 # Pytorch
