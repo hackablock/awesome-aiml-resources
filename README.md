@@ -20,6 +20,8 @@
 
 [Pytorch](https://www.youtube.com/watch?v=c36lUUr864M)
 
+[Time series](https://curiousily.com/posts/time-series-anomaly-detection-using-lstm-autoencoder-with-pytorch-in-python/)
+
 
 # Rust
 
