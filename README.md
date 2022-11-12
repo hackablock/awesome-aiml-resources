@@ -22,6 +22,8 @@
 
 [Time series](https://curiousily.com/posts/time-series-anomaly-detection-using-lstm-autoencoder-with-pytorch-in-python/)
 
+[Classification](https://www.kaggle.com/code/basu369victor/pytorch-tutorial-the-classification/notebook)
+
 
 # Rust
 
