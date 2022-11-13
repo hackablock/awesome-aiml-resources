@@ -37,3 +37,5 @@
 [Good Docs](https://michael-fuchs-python.netlify.app/2022/01/01/automl-using-pycaret-classification/)
 
 [NLP - kaggle](https://www.kaggle.com/code/nareshbhat/starter-guide-to-build-nlp-ml-model-in-pycaret)
+
+[Course](https://www.coursera.org/projects/nlp-with-pycaret)
