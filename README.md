@@ -35,3 +35,5 @@
 [ECG](https://robson-rocha.medium.com/using-scikit-learn-and-pycaret-to-predict-heart-disease-and-how-to-deploy-it-on-sagemaker-846164624d42)
 
 [Good Docs](https://michael-fuchs-python.netlify.app/2022/01/01/automl-using-pycaret-classification/)
+
+[NLP - kaggle](https://www.kaggle.com/code/nareshbhat/starter-guide-to-build-nlp-ml-model-in-pycaret)
