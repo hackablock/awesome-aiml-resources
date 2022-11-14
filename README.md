@@ -24,6 +24,8 @@
 
 [Classification](https://www.kaggle.com/code/basu369victor/pytorch-tutorial-the-classification/notebook)
 
+[NLP](https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html#sphx-glr-beginner-nlp-word-embeddings-tutorial-py)
+
 
 # Rust
 
