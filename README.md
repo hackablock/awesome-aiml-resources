@@ -10,6 +10,8 @@
 
 [AI Builder](https://github.com/ai-builders/curriculum)
 
+[AIAT Academy](https://mooc.aiat.or.th/courses/thai-transformer-bert-intermediate/)
+
 
 
 # Pytorch
