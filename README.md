@@ -28,6 +28,8 @@
 
 [NLP](https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html#sphx-glr-beginner-nlp-word-embeddings-tutorial-py)
 
+[Beginner](dataquest.io/blog/introduction-to-pytorch-for-beginners/?utm_content=buffer5a019&utm_medium=social&utm_source=facebook.com&utm_campaign=dataquest_buffer)
+
 
 # Rust
 
