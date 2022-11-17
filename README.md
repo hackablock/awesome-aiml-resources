@@ -35,6 +35,10 @@
 
 [Rust - Beginner](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL&index=1)
 
+[Rust - Easy](https://dhghomon.github.io/easy_rust/)
+
+[Rust TDD](https://www.freecodecamp.org/news/rust-in-replit/)
+
 
 # PyCaret
 
