@@ -59,3 +59,14 @@
 # TDD
 
 [TDD](https://rubikscode.net/2021/05/24/test-driven-development-tdd-with-python/)
+
+
+# NLP
+
+[ Techniques ](https://datasciencedojo.com/blog/natural-language-processing-techniques/?utm_campaign=DSD%20blogs%202022&utm_content=228342861&utm_medium=social&utm_source=facebook&hss_channel=fbp-236305876563528)
+
+[Simple Transformers](https://simpletransformers.ai/)
+
+[Hugging Face](https://huggingface.co/)
+
+[PyThaiNLP](https://pythainlp.github.io/)
