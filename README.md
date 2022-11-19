@@ -30,6 +30,8 @@
 
 [Beginner](dataquest.io/blog/introduction-to-pytorch-for-beginners/?utm_content=buffer5a019&utm_medium=social&utm_source=facebook.com&utm_campaign=dataquest_buffer)
 
+[Udemy - good](https://www.udemy.com/course/pytorch-for-deep-learning/learn/lecture/32656552#overview)
+
 
 # Rust
 
