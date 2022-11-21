@@ -72,3 +72,10 @@
 [Hugging Face](https://huggingface.co/)
 
 [PyThaiNLP](https://pythainlp.github.io/)
+
+
+# Simple Web
+
+[Gradio](https://gradio.app/)
+
+[Streamlit](https://streamlit.io/)
