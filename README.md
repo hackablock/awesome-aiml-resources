@@ -79,3 +79,10 @@
 [Gradio](https://gradio.app/)
 
 [Streamlit](https://streamlit.io/)
+
+
+# Hacking Resources
+
+[hackTricks](https://book.hacktricks.xyz/welcome/readme)
+
+[GTFOBins](https://gtfobins.github.io/)
