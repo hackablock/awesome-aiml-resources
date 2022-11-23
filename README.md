@@ -32,6 +32,8 @@
 
 [Udemy - good](https://www.udemy.com/course/pytorch-for-deep-learning/learn/lecture/32656552#overview)
 
+[Microsoft](https://learn.microsoft.com/en-us/training/paths/pytorch-fundamentals/)
+
 
 # Rust
 
