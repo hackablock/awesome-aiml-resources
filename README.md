@@ -45,6 +45,8 @@
 
 [Rust by Example)(https://doc.rust-lang.org/stable/rust-by-example/)
 
+[CS 128 Hornors Fall 2022](https://www.youtube.com/playlist?list=PLezlz_6l_jm1ckUqSnExg1zl_JeT78A1g)
+
 
 # PyCaret
 
