@@ -43,6 +43,8 @@
 
 [Rust TDD](https://www.freecodecamp.org/news/rust-in-replit/)
 
+[Rust by Example)(https://doc.rust-lang.org/stable/rust-by-example/)
+
 
 # PyCaret
 
