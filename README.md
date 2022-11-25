@@ -39,13 +39,15 @@
 
 [Rust - Beginner](https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL&index=1)
 
-[Rust - Easy](https://dhghomon.github.io/easy_rust/)
+[Rust - Easy](https://dhghomon.github.io/easy_rust)
 
-[Rust TDD](https://www.freecodecamp.org/news/rust-in-replit/)
+[Rust TDD](https://www.freecodecamp.org/news/rust-in-replit)
 
-[Rust by Example)(https://doc.rust-lang.org/stable/rust-by-example/)
+[Rust by Example)(https://doc.rust-lang.org/stable/rust-by-example)
 
 [CS 128 Hornors Fall 2022](https://www.youtube.com/playlist?list=PLezlz_6l_jm1ckUqSnExg1zl_JeT78A1g)
+
+[Rust Tutorial](https://aml3.github.io/RustTutorial/html/toc.html)
 
 
 # PyCaret
