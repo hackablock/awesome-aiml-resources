@@ -66,6 +66,11 @@
 [Main Site](https://auto.gluon.ai/stable/tutorials/tabular_prediction/tabular-quickstart.html)
 
 
+# Auto ML
+
+[TabPFN](https://github.com/automl/TabPFN)
+
+
 # Image Processing
 
 [ Portal ](https://note.nkmk.me/en/image-processing/)
