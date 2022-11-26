@@ -61,6 +61,11 @@
 [Course](https://www.coursera.org/projects/nlp-with-pycaret)
 
 
+# AutoGluon
+
+[Main Site](https://auto.gluon.ai/stable/tutorials/tabular_prediction/tabular-quickstart.html)
+
+
 # Image Processing
 
 [ Portal ](https://note.nkmk.me/en/image-processing/)
