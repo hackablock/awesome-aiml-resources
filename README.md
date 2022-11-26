@@ -65,6 +65,8 @@
 
 [Main Site](https://auto.gluon.ai/stable/tutorials/tabular_prediction/tabular-quickstart.html)
 
+[Youtube](https://www.youtube.com/watch?v=BzVg7zMSwNY)
+
 
 # Auto ML
 
