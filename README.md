@@ -67,6 +67,8 @@
 
 [Youtube](https://www.youtube.com/watch?v=BzVg7zMSwNY)
 
+[AutoML-AutoGluon](https://www.analyticsvidhya.com/blog/2021/10/beginners-guide-to-automl-with-an-easy-autogluon-example/)
+
 
 # Auto ML
 
