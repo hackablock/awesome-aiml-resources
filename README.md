@@ -70,9 +70,9 @@
 [AutoML-AutoGluon](https://www.analyticsvidhya.com/blog/2021/10/beginners-guide-to-automl-with-an-easy-autogluon-example/)
 
 
-# Auto ML
+# Fast AI
 
-[TabPFN](https://github.com/automl/TabPFN)
+[Fast AI](https://www.fast.ai/)
 
 
 # Image Processing
