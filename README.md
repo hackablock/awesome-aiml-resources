@@ -72,7 +72,7 @@
 
 # Fast AI
 
-[Fast AI](https://www.fast.ai/)
+[Fast AI](https://docs.fast.ai/)
 
 
 # Image Processing
