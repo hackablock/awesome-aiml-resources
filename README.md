@@ -69,6 +69,8 @@
 
 [AutoML-AutoGluon](https://www.analyticsvidhya.com/blog/2021/10/beginners-guide-to-automl-with-an-easy-autogluon-example/)
 
+[Hands on](https://www.youtube.com/watch?v=VAAITEds-28)
+
 
 # Fast AI
 
