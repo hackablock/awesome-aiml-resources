@@ -110,3 +110,8 @@
 [hackTricks](https://book.hacktricks.xyz/welcome/readme)
 
 [GTFOBins](https://gtfobins.github.io/)
+
+
+# Others
+
+[DSP](https://new.pythonforengineers.com/blog/audio-and-digital-signal-processingdsp-in-python/)
