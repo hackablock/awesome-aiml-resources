@@ -77,6 +77,11 @@
 [Fast AI](https://docs.fast.ai/)
 
 
+# Auto SKLearn
+
+[Auto SKLearn](https://github.com/automl/auto-sklearn/)
+
+
 # Image Processing
 
 [ Portal ](https://note.nkmk.me/en/image-processing/)
