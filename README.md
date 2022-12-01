@@ -49,6 +49,8 @@
 
 [Rust Tutorial](https://aml3.github.io/RustTutorial/html/toc.html)
 
+[ZTM Rust](https://www.youtube.com/watch?v=lzKeecy4OmQ)
+
 
 # PyCaret
 
