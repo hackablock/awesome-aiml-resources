@@ -73,6 +73,8 @@
 
 [Hands on](https://www.youtube.com/watch?v=VAAITEds-28)
 
+[Series](https://www.youtube.com/playlist?list=PLlGlURKFtW6jfdjxBoZyYrr1Lm0QzeS7h)
+
 
 # Fast AI
 
