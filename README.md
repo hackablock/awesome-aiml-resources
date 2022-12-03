@@ -12,6 +12,8 @@
 
 [AIAT Academy](https://mooc.aiat.or.th/courses/thai-transformer-bert-intermediate/)
 
+[AI For Thai](https://aiforthai.in.th/service_bn.php)
+
 
 
 # Pytorch
