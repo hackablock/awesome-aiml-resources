@@ -128,3 +128,5 @@
 # Others
 
 [DSP](https://new.pythonforengineers.com/blog/audio-and-digital-signal-processingdsp-in-python/)
+
+[Open AI Chat](https://beta.openai.com/)
