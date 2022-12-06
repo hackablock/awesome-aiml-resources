@@ -125,6 +125,11 @@
 [GTFOBins](https://gtfobins.github.io/)
 
 
+# AI For Finance
+
+[AI4Finance](https://github.com/AI4Finance-Foundation/FinRL)
+
+
 # Others
 
 [DSP](https://new.pythonforengineers.com/blog/audio-and-digital-signal-processingdsp-in-python/)
