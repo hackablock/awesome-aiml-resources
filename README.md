@@ -53,6 +53,8 @@
 
 [ZTM Rust](https://www.youtube.com/watch?v=lzKeecy4OmQ)
 
+[Bevy Engine](https://bevyengine.org/)
+
 
 # PyCaret
 
