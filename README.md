@@ -55,6 +55,8 @@
 
 [Bevy Engine](https://bevyengine.org/)
 
+[Rust from Microsoft](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
+
 
 # PyCaret
 
