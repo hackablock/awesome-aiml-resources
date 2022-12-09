@@ -57,6 +57,8 @@
 
 [Rust from Microsoft](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/)
 
+[Rust Course](https://careerbooster.io/courses/full-solana-and-rust-programming-course-for-beginners)
+
 
 # PyCaret
 
