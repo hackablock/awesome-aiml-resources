@@ -83,6 +83,8 @@
 
 [Series](https://www.youtube.com/playlist?list=PLlGlURKFtW6jfdjxBoZyYrr1Lm0QzeS7h)
 
+[NLP](https://nlp.gluon.ai/)
+
 
 # Fast AI
 
