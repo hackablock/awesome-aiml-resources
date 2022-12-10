@@ -4,6 +4,8 @@
 
 [Good Started](https://www.interviewbit.com/python-cheat-sheet/)
 
+[Fast.AI Course](https://course18.fast.ai/ml.html)
+
 
 ## Data Science & Machine Learning
 
