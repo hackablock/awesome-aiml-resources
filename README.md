@@ -1,5 +1,10 @@
 # awesome-aiml-resources
 
+## Python
+
+[Good Started](https://www.interviewbit.com/python-cheat-sheet/)
+
+
 ## Data Science & Machine Learning
 
 [Aj. Prasert](https://www.youtube.com/c/prasertcbs/playlists)
