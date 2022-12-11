@@ -21,6 +21,8 @@
 
 [AI For Thai](https://aiforthai.in.th/service_bn.php)
 
+[Data Camp](https://www.datacamp.com/)
+
 
 
 # Pytorch
