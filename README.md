@@ -6,6 +6,8 @@
 
 [Fast.AI Course](https://course18.fast.ai/ml.html)
 
+[Best Practice](https://realpython.com/tutorials/best-practices/)
+
 
 ## Data Science & Machine Learning
 
