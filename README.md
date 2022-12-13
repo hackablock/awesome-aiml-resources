@@ -25,6 +25,8 @@
 
 [Data Camp](https://www.datacamp.com/)
 
+[AIAT Super AI Engineer](https://mooc.aiat.or.th/superai-course-contents/)
+
 
 
 # Pytorch
