@@ -98,6 +98,8 @@
 
 [NLP](https://nlp.gluon.ai/)
 
+[Blog 2022](https://towardsdatascience.com/a-guide-to-making-the-best-ml-pipeline-using-autogluon-2022-new-features-3fcb0b7f47d6)
+
 
 # Fast AI
 
