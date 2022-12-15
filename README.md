@@ -160,3 +160,5 @@
 [Open AI Chat](https://beta.openai.com/)
 
 [D2L](https://d2l.ai/)
+
+[Azure ML](https://learn.microsoft.com/en-us/azure/machine-learning/)
