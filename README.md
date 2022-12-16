@@ -49,6 +49,8 @@
 
 [Microsoft](https://learn.microsoft.com/en-us/training/paths/pytorch-fundamentals/)
 
+[Pytorch 2.0](https://pytorch.org/blog/getting-started-with-pytorch-2.0/)
+
 
 # Rust
 
