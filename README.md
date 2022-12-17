@@ -159,6 +159,8 @@
 
 [Blog](https://medium.com/@stallonejacob/time-series-forecast-a-basic-introduction-using-python-414fcb963000)
 
+[Basic Time Series](http://www.real-statistics.com/time-series-analysis/)
+
 
 # Others
 
