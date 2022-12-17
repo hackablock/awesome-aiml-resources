@@ -155,6 +155,11 @@
 [AI4Finance](https://github.com/AI4Finance-Foundation/FinRL)
 
 
+# Time Series
+
+[Blog](https://medium.com/@stallonejacob/time-series-forecast-a-basic-introduction-using-python-414fcb963000)
+
+
 # Others
 
 [DSP](https://new.pythonforengineers.com/blog/audio-and-digital-signal-processingdsp-in-python/)
